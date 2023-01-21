@@ -1,6 +1,16 @@
-.carousel-control-prev-icon{
-    background-color: red;
+.carousel-control-prev-icon {
+	background-color: red;
 }
-.carousel-control-next-icon{
-    background-color: red;
+.carousel-control-next-icon {
+	background-color: red;
+}
+.ration-icon {
+	width: 20px;
+}
+.btn-custom-color {
+	background: rgba(234, 82, 115, 0.505);
+	columns: white;
+}
+.w-25 {
+	width: 75% !important;
 }
